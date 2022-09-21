@@ -30,8 +30,8 @@ Give a ⭐️ if you like this project!
 
 The following useful resources were used to complete this project.
 
-- [Linters Config] (https://github.com/microverseinc/linters-config)
-- [How to use GitHub flow] (https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)
+- [Linters Config](https://github.com/microverseinc/linters-config)
+- [How to use GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md)
 
 ## 📝 License
 
